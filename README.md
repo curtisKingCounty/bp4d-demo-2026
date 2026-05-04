@@ -9,3 +9,6 @@ Also included is the OpenAPI version of the API (`BP4D_DEMO.openapi.json`). This
 ## Remember
 
 Whichever account you wish to experiment with, ensure that one of the permissions lists assigned to that account is applied to all the endpoints. I recommend basic authentication for your testing. This site can generate the value for you: <https://www.debugbear.com/basic-auth-header-generator>
+
+## OpenAPI Specification
+You can view the OpenAPI specification here: <https://ftdav67csd.apidog.io/>. The password is KDeDfPKC.
